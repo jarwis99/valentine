@@ -15,7 +15,7 @@ Click on the template of your choice, and create your valentine pages under 1 mi
 
 
 # Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
+Hosts your valentine page here!
 
 
 # Description
@@ -43,6 +43,6 @@ pnpm run deploy
 
 # Reporting Issues
 
-You can report issues directly at saurabh@agnt.dev
+You can report issues on this repository
 
-Made with ❤️ in Berlin!
+Made with ❤️ !
